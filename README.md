@@ -1,4 +1,4 @@
-# 🎭 Real-Time 3D Face Animation Using AI
+#  Real-Time 3D Face Animation Using AI
 
 This project brings static faces to life by generating real-time 3D facial animations using a deep learning model. Built on top of the **First Order Motion Model**, it takes a source image (e.g., a portrait) and a driving video (e.g., someone nodding or talking) to animate the image with the motion in the video.
 
