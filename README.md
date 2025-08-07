@@ -27,5 +27,17 @@ This project brings static faces to life by generating real-time 3D facial anima
    - Load model checkpoints
    - Generate animated frames
    - Save & display result as video
+  
+## 🧪 Sample Use Case
+Input: Anime face image + a video of someone smiling
+
+Output: A video of the anime character smiling
+
+## ⚠️ Ethical Consideration
+This project is for educational and creative purposes only. Be mindful of how animated faces are used — misuse for impersonation or misinformation is strictly unethical.
+
+## 👨‍💻 Author - Shrikant Bawankule
+
+
 
 
