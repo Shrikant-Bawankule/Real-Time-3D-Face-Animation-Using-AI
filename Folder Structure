@@ -1,0 +1,7 @@
+3D_Animation_Generation/
+├── 3D_Animation_Generation.ipynb
+├── demo.py
+├── checkpoints/ ← Pretrained model files
+├── user/ ← Uploaded files & outputs
+├── requirements.txt
+└── README.md
