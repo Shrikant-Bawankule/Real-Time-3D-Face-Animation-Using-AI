@@ -14,7 +14,6 @@ This project brings static faces to life by generating real-time 3D facial anima
 | Category       | Tools / Libraries                       |
 |----------------|------------------------------------------|
 | Deep Learning  | PyTorch, pretrained checkpoints (FOMM)   |
-| Computer Vision| OpenCV, scikit-image, PIL                |
 | Animation      | imageio, ffmpeg-python                   |
 | Interface      | ipywidgets, IPython Display, Gradio      |
 | Platform       | Google Colab                             |
